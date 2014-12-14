@@ -1,6 +1,6 @@
 # Site settings
 title: Finchd's website
-email: 
+email: finchd@dfin.ch
 description: "Donovan Finch's website. A blog for my thoughts on Windows administration, Linux, and religion, in reverse order. This content is not rated. This website may contain religious content. This content is licensed under the sea, and other places as well."
 baseurl: ""
 url: "http://finchd.github.io"
@@ -9,3 +9,4 @@ username: finchd
 # Build settings
 markdown: kramdown
 permalink: pretty
+github: [Repository metadata]
